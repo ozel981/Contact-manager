@@ -1,0 +1,7 @@
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\WpfAppZadanie\Validations\EmailValidation.dll
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\WpfAppZadanie\Validations\EmailValidation.pdb
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\EmailValidation\obj\Debug\EmailValidation.csprojAssemblyReference.cache
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\EmailValidation\obj\Debug\EmailValidation.csproj.CoreCompileInputs.cache
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\EmailValidation\obj\Debug\EmailValidation.csproj.CopyComplete
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\EmailValidation\obj\Debug\EmailValidation.dll
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\EmailValidation\obj\Debug\EmailValidation.pdb

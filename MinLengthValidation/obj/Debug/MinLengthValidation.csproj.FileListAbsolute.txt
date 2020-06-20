@@ -1,0 +1,7 @@
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\WpfAppZadanie\Validations\MinLengthValidation.dll
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\WpfAppZadanie\Validations\MinLengthValidation.pdb
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\MinLengthValidation\obj\Debug\MinLengthValidation.csprojAssemblyReference.cache
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\MinLengthValidation\obj\Debug\MinLengthValidation.csproj.CoreCompileInputs.cache
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\MinLengthValidation\obj\Debug\MinLengthValidation.csproj.CopyComplete
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\MinLengthValidation\obj\Debug\MinLengthValidation.dll
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\MinLengthValidation\obj\Debug\MinLengthValidation.pdb

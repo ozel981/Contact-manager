@@ -1,0 +1,7 @@
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\WpfAppZadanie\Validations\PhoneValidation.dll
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\WpfAppZadanie\Validations\PhoneValidation.pdb
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\PhoneValidation\obj\Debug\PhoneValidation.csprojAssemblyReference.cache
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\PhoneValidation\obj\Debug\PhoneValidation.csproj.CoreCompileInputs.cache
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\PhoneValidation\obj\Debug\PhoneValidation.csproj.CopyComplete
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\PhoneValidation\obj\Debug\PhoneValidation.dll
+C:\Users\wpodm\OneDrive\Pulpit\WPFHome_16_podmoklyw_302\PhoneValidation\obj\Debug\PhoneValidation.pdb
